@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-<!--
-<!-- 
+
+
 <a href="https://jurre.me/">
   <img src="https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png" alt="Jurre" />
 </a>
@@ -44,5 +43,5 @@ Here are some ideas to get you started:
   <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
 </p>
--->
+
 -->
