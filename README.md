@@ -2,7 +2,7 @@
 
 <!--
 **tizzleh/tizzleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ Ambitious **developer** and Computer Science **student** from The USA 🇺🇸.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
+
 <a href="https://jurre.me/">
   <img src="https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png" alt="Jurre" />
 </a>
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- ### Hi 👋, I'm Jurre -->
-> Ambitious 19 y/o **developer** and Computer Science **student** from The Netherlands 🇳🇱.
+> Ambitious **developer** and Computer Science **student** from The USA 🇳🇱.
 
 <br>
 
@@ -41,3 +43,4 @@ Here are some ideas to get you started:
   <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
 </p>
+-->
