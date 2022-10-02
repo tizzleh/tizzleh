@@ -1,5 +1,4 @@
-### Hi there 👋
-Ambitious **developer** and Computer Science **student** from The USA 🇺🇸.
+### Hi there, my name's Ty. I'm an ambitious **developer** and Computer Science **student** from The USA 🇺🇸.
 
 <!--
 **tizzleh/tizzleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
