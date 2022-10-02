@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 
 <!-- ### Hi 👋, I'm Jurre -->
 
-<!--
+
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
+  <a href="https://github.com/tizzleh/github-widgetbox">
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
-  <a href="https://github.com/Jurredr/github-widgetbox">
+  <a href="https://github.com/tizzleh/github-widgetbox">
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 </p>
 
--->
+
 
 <!--
 <p align="center">
