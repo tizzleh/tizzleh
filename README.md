@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://jurre.me/">
+<a href="https://githhub.com/tizzleh">
   <img src="https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png" alt="Ty" />
 </a>
 
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/tizzleh/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=tizzleh&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=tizzleh&theme=dracula&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/tizzleh/github-widgetbox">
-    <img background-color="#fafafa" width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,tailwindcss,python,php,mysql,postgres,docker,json,bash&includeNames=true" alt="GitHub WidgetBox" />
+    <img background-color="#fafafa" width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,tailwindcss,python,php,mysql,postgres,docker,json,bash&includeNames=true&theme=dracula" alt="GitHub WidgetBox" />
   </a>
 </p>
 
